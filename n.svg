@@ -1,4 +1,4 @@
 <?xml version='1.0'?>
 <svg xmlns='http://www.w3.org/2000/svg' width='500' height='1000'>
-	<path d='M15 500 L15 985 M15 750 A235 235 0 0 1 485 750 L485 985' fill='none' stroke='#5dd9c1' stroke-width='30' stroke-linecap='round'/>
+	<path d='M15 500 L15 985 M15 750 A235 235 0 0 1 485 750 L485 985' fill='none' stroke='#ffffff' stroke-width='30' stroke-linecap='round'/>
 </svg>
