@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <svg xmlns='http://www.w3.org/2000/svg' width='500' height='1000'>
-	<circle cx='250' cy='750' r='235' fill='none' stroke='#392f5a' stroke-width='30'/>
+	<circle cx='250' cy='750' r='235' fill='none' stroke='#ffffff' stroke-width='30'/>
 
-	<line x1='485' y1='515' x2='485' y2='985' stroke='#392f5a' stroke-width='30' stroke-linecap='round'/>
+	<line x1='485' y1='515' x2='485' y2='985' stroke='#ffffff' stroke-width='30' stroke-linecap='round'/>
 </svg>
